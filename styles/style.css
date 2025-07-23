@@ -131,7 +131,7 @@
 }
 
 .filter-blur-gray {
-  filter: blur(0.2rem) grayscale(1.5);
+  filter: blur(0.2rem) grayscale(0.5);
 }
 
 .filter-hue {
